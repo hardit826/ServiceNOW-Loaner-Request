@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="current" label="Record" language="en" table="var__m_sys_hub_flow_input_353472932f6024109cf559a72799b6fe">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>current</element>
+            <help/>
+            <hint/>
+            <label>Record</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_353472932f6024109cf559a72799b6fe</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-23 15:19:48</sys_created_on>
+            <sys_id>8634b2932f6024109cf559a72799b640</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Record</sys_name>
+            <sys_package display_value="Loaner Request" source="x_423228_loaner_re">74aa64672f1020109cf559a72799b6e7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">74aa64672f1020109cf559a72799b6e7</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_353472932f6024109cf559a72799b6fe_current_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-23 15:19:48</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
